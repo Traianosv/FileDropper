@@ -37,5 +37,5 @@ open FileDropper.app
 - Copy or AirDrop.
 - Click X to close.
 
-##Licence
+## Licence
 -MIT License
